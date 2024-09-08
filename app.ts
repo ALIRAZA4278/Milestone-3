@@ -138,3 +138,4 @@ profilePictureInput.addEventListener("change", (event) => {
     reader.readAsDataURL(file);
   }
 });
+
